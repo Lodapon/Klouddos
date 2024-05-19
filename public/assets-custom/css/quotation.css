@@ -1,0 +1,76 @@
+.content {
+    /* height: 400px; */
+    /* width: 80%; */
+    margin-top: auto;
+    margin-bottom: auto;
+    margin: 0 auto;
+    /* background: white; */
+    position: relative;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    overflow-x: hidden;
+    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+    /* -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+    /* -moz-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+    /* border-radius: 5px; */
+}
+.form-horizontal .form-group {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.bg{
+    background-color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+}
+.vertical-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 50%;
+}
+/*     .btn-primaryQ {
+        background-color: #003580;
+        box-shadow: none;
+        border-radius: 2px;
+        padding: 10px 15px;
+        color: #ffffff;
+        font-size: 14px;
+        font-family: 'Open Sans Bold', sans-serif;
+        border: none;
+    }
+    .btn-primaryQ:hover,
+    .btn-primaryQ:active,
+    .btn-primaryQ:focus {
+        border: none;
+        background-color: #5E88C6;
+        box-shadow: none;
+    } */
+.btn-cancel {
+    background-color: #F2612A;
+    box-shadow: none;
+    border-radius: 2px;
+    padding: 10px 15px;
+    color: #ffffff;
+    font-size: 14px;
+    font-family: 'Open Sans Bold', sans-serif;
+    border: none;
+
+}
+.btn-cancel:hover,
+.btn-cancel:active,
+.btn-cancel:focus {
+    border: none;
+    background-color: #FCA57F;
+    box-shadow: none;
+}
+.star-rating {
+    line-height:32px;
+    font-size:1.25em;
+}
+
+.star-rating .fa-star{color: orange;}

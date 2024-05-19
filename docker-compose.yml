@@ -1,0 +1,52 @@
+version: '3.7'
+services:
+#  appserv:
+#    build:
+#      context: .
+#      dockerfile: php.Dockerfile
+#    ports:
+#      - 80:80
+#      - 443:443
+#    volumes:
+#      - type: bind
+#        source: ./
+#        target: /var/www/html
+#    depends_on:
+#      - database
+#    extra_hosts:
+#      - "database_host:172.30.1.2"
+#    networks:
+#      testing_net:
+#        ipv4_address: 172.30.1.1
+  database:
+    build:
+      context: docker/maria
+    ports:
+      - 3306:3306
+    environment:
+      MYSQL_ROOT_PASSWORD: example
+      MYSQL_DATABASE: klouddosco_db
+      MYSQL_USER: klouddosco_admin
+      MYSQL_PASSWORD: K10udDO$$
+    volumes:
+      - ./mysql/data:/var/lib/mysql
+#    extra_hosts:
+#      - "appserv_host:172.30.1.1"
+    networks:
+      mynetwork:
+  phpmyadmin:
+    depends_on:
+      - database
+    image: phpmyadmin/phpmyadmin
+    restart: always
+    ports:
+      - '8080:80'
+    environment:
+      PMA_HOST: database
+      PMA_DATABASE: klouddosco_db
+      PMA_USER: klouddosco_admin
+      PMA_PASSWORD: K10udDO$$
+    networks:
+      - mynetwork
+networks:
+  mynetwork:

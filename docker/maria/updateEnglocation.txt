@@ -1,0 +1,820 @@
+--  Auto-generated SQL script #202009080113
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Ko Nok'
+	WHERE id=45;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Ko Lukmai'
+	WHERE id=94;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Ratsada'
+	WHERE id=195;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Ko Khang Khao'
+	WHERE id=217;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Baan Bart'
+	WHERE id=281;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Ratsada'
+	WHERE id=287;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Talat Noi'
+	WHERE id=289;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Wat Thepsirin'
+	WHERE id=290;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Wat Somanas'
+	WHERE id=295;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Samphanthawong'
+	WHERE id=297;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Si Phraya'
+	WHERE id=301;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Chakrawat'
+	WHERE id=303;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Khlong Maha Nak'
+	WHERE id=309;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bang Rak'
+	WHERE id=312;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Pom Prap'
+	WHERE id=313;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Mahaphruttharam'
+	WHERE id=316;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Hiranruchi'
+	WHERE id=322;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Somdet Chao Phraya'
+	WHERE id=327;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Wat Kanlaya'
+	WHERE id=335;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Si Lom'
+	WHERE id=337;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Khuha Sawan'
+	WHERE id=342;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Wat Arun'
+	WHERE id=345;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Khlong San'
+	WHERE id=350;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Makkasan'
+	WHERE id=355;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bang Chak'
+	WHERE id=357;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Khlong Chak Phra'
+	WHERE id=358;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Rong Muang'
+	WHERE id=365;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Thanon Phaya Thai'
+	WHERE id=366;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bang Yi Ruea'
+	WHERE id=370;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Wang Mai'
+	WHERE id=378;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Siri Rat'
+	WHERE id=380;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Wat Phraya Krai'
+	WHERE id=384;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Suriya Wong'
+	WHERE id=391;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Talat Phlu'
+	WHERE id=396;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bang Khun Non'
+	WHERE id=399;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Pak Khlong Phasi Charoen'
+	WHERE id=403;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Khlong Ton Sai'
+	WHERE id=413;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Khlong Tan'
+	WHERE id=416;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Thung Wat Don'
+	WHERE id=419;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Pathum Wan'
+	WHERE id=420;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bang Kho Laem'
+	WHERE id=421;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Khlong Toei Nuea'
+	WHERE id=423;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Ban Chang Lo'
+	WHERE id=426;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Yan Nawa'
+	WHERE id=428;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bang Bumru'
+	WHERE id=431;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bang Lamphu Lang'
+	WHERE id=433;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Thanon Phetchaburi'
+	WHERE id=434;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Thung Phaya Thai'
+	WHERE id=438;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Khlong Khwang'
+	WHERE id=448;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bang Kho'
+	WHERE id=454;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bang Yi Khan'
+	WHERE id=465;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Arun Amarin'
+	WHERE id=466;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Thung Maha Mek'
+	WHERE id=471;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bang Waek'
+	WHERE id=474;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bang Ao'
+	WHERE id=478;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bang Phlat'
+	WHERE id=488;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Lumphini'
+	WHERE id=492;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bang Duan'
+	WHERE id=498;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Phra Khanong Nuea'
+	WHERE id=499;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bang Prong'
+	WHERE id=514;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Phra Khanong'
+	WHERE id=520;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bang Khun Si'
+	WHERE id=530;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bang Chueak Nang'
+	WHERE id=542;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bang Duan'
+	WHERE id=545;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bukkhalo'
+	WHERE id=547;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bang Khlo'
+	WHERE id=570;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Huai Khwang'
+	WHERE id=585;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bang Phrom'
+	WHERE id=597;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Chom Thong'
+	WHERE id=606;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Samsen Nok'
+	WHERE id=613;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Wat Tha Phra'
+	WHERE id=615;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Chong Nonsi'
+	WHERE id=617;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Rat Burana'
+	WHERE id=626;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Thanon Nakhon Chai Si'
+	WHERE id=640;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Talat Bang Khen'
+	WHERE id=661;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Chorakhe Bua'
+	WHERE id=662;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bang Kapi'
+	WHERE id=676;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Taling Chan'
+	WHERE id=677;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bang Wa'
+	WHERE id=679;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bang Khun Thian'
+	WHERE id=704;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bang Phong Phang'
+	WHERE id=751;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bang Pakok'
+	WHERE id=758;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Khlong Tan Nuea'
+	WHERE id=765;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Khlong Toei'
+	WHERE id=779;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Rahaeng'
+	WHERE id=847;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Samut Prakan'
+	WHERE id=848;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bang Mot'
+	WHERE id=851;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Din Daeng'
+	WHERE id=869;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Samsen Nai'
+	WHERE id=923;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Chim Phli'
+	WHERE id=954;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Lak Song'
+	WHERE id=960;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bang Ramat'
+	WHERE id=996;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Sai Kong Din'
+	WHERE id=1001;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Thepharak'
+	WHERE id=1008;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Wiang Nuea'
+	WHERE id=1035;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Thai Ban Mai'
+	WHERE id=1052;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Lat Krabang'
+	WHERE id=1095;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bang Khae'
+	WHERE id=1128;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bang Khae Nuea'
+	WHERE id=1151;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bang Mot'
+	WHERE id=1177;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Samrong Nuea'
+	WHERE id=1181;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Khlong Chan'
+	WHERE id=1195;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Khlong Thanon'
+	WHERE id=1219;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Nong Bon'
+	WHERE id=1265;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bang Muang'
+	WHERE id=1284;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bang Su'
+	WHERE id=1300;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bang Chak'
+	WHERE id=1319;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Khlong Suan'
+	WHERE id=1324;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Lat Phrao'
+	WHERE id=1445;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Ao Ngoen'
+	WHERE id=1464;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Hua Mak'
+	WHERE id=1506;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Sai Mai'
+	WHERE id=1508;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Thai Ban'
+	WHERE id=1509;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bang Phai'
+	WHERE id=1515;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Khlong Song Ton Nun'
+	WHERE id=1543;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Dok Mai'
+	WHERE id=1560;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Khu Fang Nuea'
+	WHERE id=1569;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Khlong Niyom Yattra'
+	WHERE id=1571;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bang Na'
+	WHERE id=1573;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Nong Khang Phlu'
+	WHERE id=1584;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Thung Song Hong'
+	WHERE id=1622;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Wang Thong Lang'
+	WHERE id=1655;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Ma Ba'
+	WHERE id=1656;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Khlong Sam Prawet'
+	WHERE id=1668;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Mu Mon'
+	WHERE id=1683;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Anusawari'
+	WHERE id=1706;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Sai Kong Din Tai'
+	WHERE id=1714;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Na Sai'
+	WHERE id=1724;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Pak Khwae'
+	WHERE id=1730;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Preng'
+	WHERE id=1759;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bang Phli Noi'
+	WHERE id=1764;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Pak Thang'
+	WHERE id=1765;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Pak Nam'
+	WHERE id=1779;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Thawi Watthana'
+	WHERE id=1797;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Nong Khaem'
+	WHERE id=1828;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bang Chan'
+	WHERE id=1880;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Phraeksa'
+	WHERE id=1919;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Phai Khwang'
+	WHERE id=1931;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Chiang Khwan'
+	WHERE id=1947;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Yan Yao'
+	WHERE id=1986;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Thung Khu'
+	WHERE id=2019;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='โคกแฝด'
+	WHERE id=2022;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bua Mat'
+	WHERE id=2086;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Tha Raeng'
+	WHERE id=2104;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Phon Charoen'
+	WHERE id=2117;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Khlong Kum'
+	WHERE id=2157;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Thap Yao'
+	WHERE id=2163;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Khum Thong'
+	WHERE id=2191;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Nai Mueang'
+	WHERE id=2194;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Suan Luang'
+	WHERE id=2216;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Khlong Sip'
+	WHERE id=2221;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Ban Rakat'
+	WHERE id=2223;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Tha Luang'
+	WHERE id=2245;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Prawet'
+	WHERE id=2261;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Phraek Sa Mai'
+	WHERE id=2262;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Ban Khueang'
+	WHERE id=2265;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Min Buri'
+	WHERE id=2288;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bang Kaeo'
+	WHERE id=2290;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Khanna Yao'
+	WHERE id=2347;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Tha Lo'
+	WHERE id=2370;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Thung Khao Luang'
+	WHERE id=2418;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Sam Wa Tawan Tok'
+	WHERE id=2460;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Dong Klang'
+	WHERE id=2484;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Saphan Sung'
+	WHERE id=2534;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bang Lamung'
+	WHERE id=2536;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Nong Prue'
+	WHERE id=2546;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Lam Toi Ting'
+	WHERE id=2665;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Kha Mung'
+	WHERE id=2724;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Racha Thewa'
+	WHERE id=2806;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Pattaya'
+	WHERE id=2857;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Rong Chang'
+	WHERE id=2862;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Sala Thammasop'
+	WHERE id=2867;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Pa Phayom'
+	WHERE id=2886;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Lam Phakchi'
+	WHERE id=2930;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Ban Song'
+	WHERE id=2946;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Khlong Khachen'
+	WHERE id=2973;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Lat Yao'
+	WHERE id=2979;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Lam Prathew'
+	WHERE id=2992;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bang Pu Mai'
+	WHERE id=3032;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Sai Kham Ho'
+	WHERE id=3067;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Nong Chok'
+	WHERE id=3096;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Yupo'
+	WHERE id=3098;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Nong Ruea'
+	WHERE id=3101;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bang Phriang'
+	WHERE id=3104;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Si Chomphu'
+	WHERE id=3108;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bang Bon'
+	WHERE id=3141;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Kham Hi Yai'
+	WHERE id=3226;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Saen Saep'
+	WHERE id=3318;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Khuan Suban'
+	WHERE id=3328;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Si Kan'
+	WHERE id=3332;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Na Kang'
+	WHERE id=3334;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Krathum Rai'
+	WHERE id=3345;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bang Chalong'
+	WHERE id=3521;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Sam Wa Tawan Ok'
+	WHERE id=3535;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Pong Pueai'
+	WHERE id=3536;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Na Dong'
+	WHERE id=3547;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bang Phli Yai'
+	WHERE id=3575;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Phra Achan'
+	WHERE id=3657;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Mueang Kao'
+	WHERE id=3688;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Nong Bua'
+	WHERE id=3695;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Khlong Sip Song'
+	WHERE id=3746;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Ban Phrao'
+	WHERE id=3808;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Nong Yong'
+	WHERE id=3813;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Nong Yong'
+	WHERE id=3876;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Non Sila'
+	WHERE id=4053;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Khao Noi'
+	WHERE id=4072;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Dong Bang'
+	WHERE id=4175;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Nong Thum'
+	WHERE id=4185;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Samae Dam'
+	WHERE id=4218;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Nong Phan Tha'
+	WHERE id=4330;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Khai Si'
+	WHERE id=4373;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bang Bo'
+	WHERE id=4398;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Thung Sukhla'
+	WHERE id=4432;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bang Pla'
+	WHERE id=4450;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Na San'
+	WHERE id=4459;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Dong Pa Kham'
+	WHERE id=4513;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Si Wilai'
+	WHERE id=4564;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Si Samran'
+	WHERE id=4586;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Khlong Dan'
+	WHERE id=4632;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Wang Chomphu'
+	WHERE id=4647;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Lao Thong'
+	WHERE id=4683;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Nong Loeng'
+	WHERE id=4691;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Pa Faek'
+	WHERE id=4813;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Pak Khat'
+	WHERE id=4874;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Ban Bueng'
+	WHERE id=4921;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Hua Dong'
+	WHERE id=5012;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Ratsada'
+	WHERE id=5055;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bueng Kan'
+	WHERE id=5097;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Pa Makhap'
+	WHERE id=5135;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Som Sanuk'
+	WHERE id=5190;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Nam Chan'
+	WHERE id=5257;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Na Sing'
+	WHERE id=5310;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Na Saeng'
+	WHERE id=5339;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Nong Kheng'
+	WHERE id=5470;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Kham Na Di'
+	WHERE id=5520;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Suthep'
+	WHERE id=5599;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Na Kha'
+	WHERE id=5607;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Sok Kam'
+	WHERE id=5616;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Tha Song Khon'
+	WHERE id=5648;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Na Sabaeng'
+	WHERE id=5762;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Kham Na Di'
+	WHERE id=5818;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Na Sawan'
+	WHERE id=5846;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Tha Kok Daeng'
+	WHERE id=5919;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Tha Kham'
+	WHERE id=5946;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Nong Doen'
+	WHERE id=5972;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Tham Charoen'
+	WHERE id=6032;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bueng Khong Long'
+	WHERE id=6081;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Chumphu Phon'
+	WHERE id=6100;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Non Sombun'
+	WHERE id=6117;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Chiyaphon'
+	WHERE id=6119;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bua Tum'
+	WHERE id=6178;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Mae Loi'
+	WHERE id=6201;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Bung Khla'
+	WHERE id=6235;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Tha Sa-at'
+	WHERE id=6239;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Wisit'
+	WHERE id=6355;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Mueang Kao Phatthana'
+	WHERE id=6370;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Kham Kaeo'
+	WHERE id=6372;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Pho Mak Khaeng'
+	WHERE id=6419;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Ho Kham'
+	WHERE id=6457;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Khok Kwang'
+	WHERE id=6470;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Pong Hai'
+	WHERE id=6590;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Sang'
+	WHERE id=6621;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Lan Khoi'
+	WHERE id=6625;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Khok Kong'
+	WHERE id=6705;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Si Chomphu'
+	WHERE id=6710;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Nong Hua Chang'
+	WHERE id=6715;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Tha Dok Kham'
+	WHERE id=6741;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='So'
+	WHERE id=6826;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Seka'
+	WHERE id=7051;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Phu Nam Yot'
+	WHERE id=7128;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Ban Tong'
+	WHERE id=7150;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Nai Mueang'
+	WHERE id=7220;
+UPDATE klouddosco_db.location
+	SET TAMBON_E='Pho Ngam'
+	WHERE id=7618;
